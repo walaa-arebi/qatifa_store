@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661209054200",
+    "project_id": "qatifa-store",
+    "storage_bucket": "qatifa-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661209054200:android:cc12f0f0c3c1140b2a340d",
+        "android_client_info": {
+          "package_name": "com.example.qatifa_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661209054200-btletdh7b58pa5ab8d66n289cnd6mjhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-yzDTn1gh2mMUuyfEmhhefwCxc_8GotA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661209054200-btletdh7b58pa5ab8d66n289cnd6mjhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
